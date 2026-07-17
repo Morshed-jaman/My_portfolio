@@ -1,0 +1,17 @@
+{
+  "name": "MD Morshed Jaman — Portfolio",
+  "short_name": "Morshed",
+  "description": "Portfolio of MD Morshed Jaman — software developer, Data & AI researcher, and QA enthusiast.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fefae0",
+  "theme_color": "#606c38",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

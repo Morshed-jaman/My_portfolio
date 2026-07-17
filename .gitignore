@@ -1,0 +1,23 @@
+# Dependencies and package-manager output
+node_modules/
+
+# Vercel project metadata
+.vercel/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
